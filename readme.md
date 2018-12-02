@@ -1,0 +1,1 @@
+To jest moj calkiem nowy projekt w git,hurra!!!
